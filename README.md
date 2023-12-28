@@ -7,7 +7,7 @@ This is a simple compiler program written in Python. It takes an assignment stat
 - Recursive descent parser: The program performs executes mutually recursive functions to perform a recursive descent parse (hence the name).
 - Syntax analysis: It checks the syntax of the source code to ensure it follows the rules of the programming language.
 - Semantic analysis: The program performs semantic analysis to check for any logical errors or inconsistencies in the code.
-- Code generation: It generates machine code or bytecode based on the input source code.
+- Code generation: It generates assembly code for a zero address machine based on the input assignment statement.
 
 ## Usage
 To use the compiler, follow these steps:
